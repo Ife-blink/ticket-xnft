@@ -1,0 +1,25 @@
+{
+  "name": "Ticket xNFT",
+  "version": "0.0.1",
+  "storage": "arweave",
+  "description": "A simple Ticket xNFT",
+  "website": "http://wao.gg",
+  "installAuthority": "FY2MFVEfkCcifK5kAab6wctb6jeT17WzdEZvZNkW816r",
+  "installVault": "FY2MFVEfkCcifK5kAab6wctb6jeT17WzdEZvZNkW816r",
+  "price": 0,
+  "tag": "none",
+  "kind": "app",
+  "icon": {
+    "md": "./assets/icon.png"
+  },
+  "contact": "Gmail",
+  "screenshots": [
+    "./assets/screenShot.png"
+  ],
+  "entrypoints": {
+    "default": {
+      "web": "./web-build/index.html"
+    }
+  }
+}
+

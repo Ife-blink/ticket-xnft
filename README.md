@@ -1,1 +1,1 @@
-# ticket-xnft
+Ticket xnft
